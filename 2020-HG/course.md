@@ -12,7 +12,7 @@ Zoom [link](https://illinois.zoom.us/j/91576658157?pwd=TEJFUFg5YnBYeDFxd2FIVGZXe
 
 ## Lectures
 
-Lecture 1: (29 June) [Notes](pdf/lec1.pdf)
+Lecture 1: (29 June) [Notes](pdf/lec1.pdf) [Video](https://youtu.be/irLf11kE1eY)
 
 Lecture 2: (2 July) [Notes](pdf/lec2.pdf)
 
