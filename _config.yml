@@ -1,3 +1,18 @@
 theme: jekyll-theme-slate
-title: Karthik Vasu's homepage
-permalink: /:path/:basename:output_ext
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "my-site"
+      permalink: /:path/:basename:output_ext
+      title: Karthik Vasu's homepage
+  -
+    scope:
+      path: "projects"
+      type: "pages" # previously `page` in Jekyll 2.2.
+    values:
+      title: Introduction to Hyperbolic Geometry
+      
