@@ -1,1 +1,1 @@
-Lecture 1: [Notes]("/lec1.pdf")
+Lecture 1: [Notes](homepage/2020-HG/lec1.pdf)
