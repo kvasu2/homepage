@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
 name: "Homepage"
+title: "Title"
 permalink: /:path/:basename:output_ext
