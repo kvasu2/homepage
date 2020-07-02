@@ -1,3 +1,8 @@
+---
+title: Introduction to Hyperbolic Geometry
+---
+
+
 # Introduction to Hyperbolic Geometry
 
 ## Meeting
