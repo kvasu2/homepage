@@ -10,7 +10,7 @@ Mon, Thur 9:30pm IST
 
 Zoom [link](https://illinois.zoom.us/j/91576658157?pwd=TEJFUFg5YnBYeDFxd2FIVGZXeXRJdz09)
 
-Next meeting: 6 July, 9:30PM IST
+Next meeting: 9 July, 9:30PM IST
 
 ## Lectures
 
