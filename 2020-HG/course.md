@@ -20,6 +20,6 @@ Lecture 2: (2 July) [Notes](pdf/lec2.pdf) [Video](https://youtu.be/C74-47VKP8M)
 
 Lecture 3: (6 July) [Notes](pdf/lec3.pdf) [Video](https://youtu.be/aiv3PcubWUk)
 
-Lecture 4: (9 July) [Notes](pdf/lec4.pdf)
+Lecture 4: (9 July) [Notes](pdf/lec4.pdf) [Video](https://youtu.be/BKE6-oVZcM0)
 
 Lecture 5: (13 July 9:30PM IST)
