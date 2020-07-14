@@ -14,7 +14,7 @@ Next meeting: 16 July, 9:30PM IST
 
 ## References
 
-1. Hyperbolic Geometry by James Anderson
+1. [Hyperbolic Geometry](https://www.springer.com/gp/book/9781447139874) by James Anderson
 
 2. Subhojoy Gupta's [notes](pdf/inthypgeom.pdf)
 
