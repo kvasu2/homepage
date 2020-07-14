@@ -12,6 +12,12 @@ Zoom [link](https://illinois.zoom.us/j/91576658157?pwd=TEJFUFg5YnBYeDFxd2FIVGZXe
 
 Next meeting: 16 July, 9:30PM IST
 
+## References
+
+1. Hyperbolic Geometry by James Anderson
+
+2. Subhojoy Gupta's [notes](pdf/inthypgeom.pdf)
+
 ## Lectures
 
 Lecture 1: (29 June) [Notes](pdf/lec1.pdf) [Video](https://youtu.be/CjW7fPck8dI)
