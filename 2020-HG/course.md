@@ -10,7 +10,7 @@ Mon, Thur 9:30pm IST
 
 Zoom [link](https://illinois.zoom.us/j/91576658157?pwd=TEJFUFg5YnBYeDFxd2FIVGZXeXRJdz09)
 
-Next meeting: 16 July, 9:30PM IST
+Next meeting: 17 July, 9:30PM IST, (Not 16 July)
 
 ## References
 
@@ -30,4 +30,4 @@ Lecture 4: (9 July) [Notes](pdf/lec4.pdf) [Video](https://youtu.be/BKE6-oVZcM0)
 
 Lecture 5: (14 July) [Notes](pdf/lec5.pdf) [Video](https://youtu.be/LhrlEXlv5a0)
 
-Lecture 6: (16 July 9:30PM IST)
+Lecture 6: (17 July 9:30PM IST)
