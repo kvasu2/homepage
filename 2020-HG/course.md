@@ -32,4 +32,4 @@ Lecture 5: (14 July) [Notes](pdf/lec5.pdf) [Video](https://youtu.be/LhrlEXlv5a0)
 
 Lecture 6: (17 July) [Notes](pdf/lec6.pdf) [Video](https://youtu.be/xLeyEYnHIN4)
 
-Lecture 6: (20 July 9:30PM IST)
+Lecture 7: (20 July 9:30PM IST)
