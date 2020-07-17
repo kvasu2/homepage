@@ -20,6 +20,8 @@ Next meeting: 20 July, 9:30PM IST
 
 ## Lectures
 
+Consolidated [notes](pdf/allnotes.pdf) (in progress)
+
 Lecture 1: (29 June) [Notes](pdf/lec1.pdf) [Video](https://youtu.be/CjW7fPck8dI)
 
 Lecture 2: (2 July) [Notes](pdf/lec2.pdf) [Video](https://youtu.be/C74-47VKP8M)
