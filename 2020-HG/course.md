@@ -18,9 +18,9 @@ Next meeting: 20 July, 9:30PM IST
 
 2. Subhojoy Gupta's [notes](pdf/inthypgeom.pdf)
 
-## Lectures
+3. My consolidated [notes](pdf/allnotes.pdf) (in progress)
 
-Consolidated [notes](pdf/allnotes.pdf) (in progress)
+## Lectures
 
 Lecture 1: (29 June) [Notes](pdf/lec1.pdf) [Video](https://youtu.be/CjW7fPck8dI)
 
