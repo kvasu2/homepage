@@ -6,11 +6,11 @@ title: Introduction to Hyperbolic Geometry
 
 ## Meeting
 
-Mon, Thur 9:30pm IST
+Tue, Fri 9:30pm IST
 
 Zoom [link](https://illinois.zoom.us/j/91576658157?pwd=TEJFUFg5YnBYeDFxd2FIVGZXeXRJdz09)
 
-Next meeting: 20 July, 9:30PM IST
+Next meeting: 21 July, 9:30PM IST (Not 20 July)
 
 ## References
 
@@ -34,4 +34,4 @@ Lecture 5: (14 July) [Notes](pdf/lec5.pdf) [Video](https://youtu.be/LhrlEXlv5a0)
 
 Lecture 6: (17 July) [Notes](pdf/lec6.pdf) [Video](https://youtu.be/xLeyEYnHIN4)
 
-Lecture 7: (20 July 9:30PM IST)
+Lecture 7: (21 July 9:30PM IST)
