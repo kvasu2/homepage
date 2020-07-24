@@ -32,8 +32,8 @@ Lecture 4: (9 July) [Notes](pdf/lec4.pdf) [Video](https://youtu.be/BKE6-oVZcM0)
 
 Lecture 5: (14 July) [Notes](pdf/lec5.pdf) [Video](https://youtu.be/LhrlEXlv5a0)
 
-Lecture 6: (17 July) [Notes](pdf/lec6.pdf) [Video](https://youtu.be/xLeyEYnHIN4)
+Lecture 6: (17 July) [Notes](pdf/lec6_h.pdf) [Video](https://youtu.be/xLeyEYnHIN4)
 
-Lecture 7: (21 July) [Notes](pdf/lec7.pdf) [Video](https://youtu.be/Jpxlbfpzo28)
+Lecture 7: (21 July) [Notes](pdf/lec7_h.pdf) [Video](https://youtu.be/Jpxlbfpzo28)
 
 Lecture 8: (24 July 9:30PM IST)
