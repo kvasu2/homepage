@@ -4,6 +4,8 @@ title: Introduction to Hyperbolic Geometry
 
 # Introduction to Hyperbolic Geometry
 
+In this course I started Mobius transforms, the hyperbolic metric on half space and the unit disk. Moved on to some calculations of distances and then to the space of all isometries. Some results about triangles and trigonometry are included. ...........
+
 ## Meeting
 
 Tue, Fri 9:30pm IST
